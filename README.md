@@ -10,5 +10,10 @@
 * I'm currently learning **TypeScript** + the **Spring framework** 🌱 </br>
 * I contribute to **Open Source** projects in my spare time 👯 </br>
 
+</br>
+</br>
+ 
+[![Jonny's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonnyMc94&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
