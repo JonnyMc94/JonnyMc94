@@ -14,7 +14,7 @@
 </br>
  
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" style="padding: 40px 70px;" src="https://github-readme-stats.vercel.app/api/?username=JonnyMc94&show=reviews,prs_merged&show_icons=true&theme=tokyonight" alt="Jonny's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" style="padding: 40px 70px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonnyMc94&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" style="padding: 40px 70px;" src="https://github-readme-stats.vercel.app/api/?username=JonnyMc94&show_icons=true&theme=tokyonight" alt="Jonny's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" style="padding: 40px 70px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonnyMc94&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 
 
