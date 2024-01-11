@@ -7,7 +7,7 @@
 
 * I've been developing code for just over three years now 💪 </br>
 * I'm familiar with many different languages but love **Java** and **Javascript**! </br>
-* I'm currently learning **TypeScript** + the **Spring framework** 🌱 </br>
+* I'm currently learning the **Spring framework** 🌱 </br>
 * I contribute to **Open Source** projects in my spare time 👯 </br>
 
 </br>
